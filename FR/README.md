@@ -57,11 +57,13 @@ La première, **[Dunder MiffLAN](https://github.com/Joupow/DunderMiffLAN-Network
 
 Ce lab monte d'une couche : l'annuaire, les serveurs Windows et ce qui les fait tenir en production.
 
-Les deux projets visent le même poste. Seul le point de départ a changé. Pour le réseau, je suivais le programme d'une certification. Pour le système, j'ai d'abord regardé ce que demandent les employeurs. J'ai relevé une soixantaine d'offres sur un peu plus d'un mois, dont 45% en CDI autour de Lyon (du technicien à l'administrateur confirmé) et 55% alternances dans toute la France (plus difficile d'avoir des offres dans mon bassin de prédilection j'ai donc du élargir au niveau national pour avoir un panel intéressant). 
+Les deux projets visent le même poste. Seul le point de départ a changé. Pour le réseau, je suivais le programme d'une certification. Pour le système, j'ai d'abord regardé ce que demandent les employeurs. 
 
-J'ai compté ce qui revenait d'une annonce à l'autre, puis construit le programme à partir de ce comptage.
+J'ai relevé une soixantaine d'offres sur un peu plus d'un mois, dont 45% en CDI autour de Lyon (du technicien à l'administrateur confirmé) et 55% alternances dans toute la France (plus difficile d'avoir des offres dans mon bassin de prédilection j'ai donc du élargir au niveau national pour avoir un panel intéressant). 
 
-Ma cible est un contrat de professionnalisation ou un premier poste junior, et ce lab est l'atelier où je m'y prépare en autodidacte. Il reflète le marché tel que je l'ai lu entre aout et septembre 2026. Si les offres évoluent, le programme suivra.
+J'ai compté ce qui revenait d'une annonce à l'autre, puis construit le programme à partir de ce comptage qui reflète le marché tel que je l'ai lu entre aout et septembre 2026. 
+
+Si les offres évoluent, le programme suivra.
 
 ## <a id="methode"></a>3. Méthode : Build it, Break it, Fix it
 
@@ -96,10 +98,7 @@ Chaque épisode tient un registre des dettes et des limites assumées : ce qui r
 
 J'ai utilisé une IA pour affiner le programme à partir des offres relevées, puis je l'ai cadrée comme un mentor technique. 
 
-Son rôle, sa méthode et ses règles de progression ont été rédigés par mes soins. À la fin de chaque étape, elle devait me poser deux questions de vérification sur ma compréhension des concepts et des commandes. J'avançais à l'étape suivante qu'une fois mes réponses validées. 
-
-
-L'intégration des commandes, les pannes et les décisions sont bien les miennes. Le partage exact des rôles, et ce qui le prouve, est détaillé dans la [vue d'ensemble technique](./TECHNICAL_OVERVIEW.md#relecteur).
+Son rôle, sa méthode et ses règles de progression ont été rédigés par mes soins. Le détail des tâches confiées à l'IA figure dans la [vue d'ensemble technique](./TECHNICAL_OVERVIEW.md#relecteur)
 
 ## <a id="topologie"></a>5. Topologie cible
 
