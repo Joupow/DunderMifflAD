@@ -1,4 +1,4 @@
-# 🪪 Dunder MifflAD · Portfolio AD & Windows Server
+# Dunder MifflAD · Portfolio AD & Windows Server 🪪 
 
 Le lab simule une infrastructure Windows d'entreprise sur Hyper-V (hôte unique), en 11 épisodes (`N1` à `N11`) regroupés en 3 saisons, chacun construit sur une base validée par le précédent. Forêt et domaine uniques.
 
@@ -59,7 +59,7 @@ Ce lab monte d'une couche : l'annuaire, les serveurs Windows et ce qui les fait 
 
 Les deux projets visent le même poste. Seul le point de départ a changé. Pour le réseau, je suivais le programme d'une certification. Pour le système, j'ai d'abord regardé ce que demandent les employeurs. 
 
-J'ai relevé une soixantaine d'offres sur un peu plus d'un mois, dont 45% en CDI autour de Lyon (du technicien à l'administrateur confirmé) et 55% alternances dans toute la France (plus difficile d'avoir des offres dans mon bassin de prédilection j'ai donc du élargir au niveau national pour avoir un panel intéressant). 
+Ma recherche vise un premier poste ou un contrat pro. J'ai relevé une soixantaine d'offres sur un peu plus d'un mois : 45% de CDI autour de Lyon, du technicien à l'administrateur confirmé, et 55% d'alternances, volontairement élargies au national pour obtenir un échantillon représentatif.
 
 J'ai compté ce qui revenait d'une annonce à l'autre, puis construit le programme à partir de ce comptage qui reflète le marché tel que je l'ai lu entre aout et septembre 2026. 
 

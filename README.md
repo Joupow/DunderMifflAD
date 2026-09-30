@@ -9,7 +9,7 @@
 
 ---
 
-👋 Bienvenue chez Dunder MifflAD (Scranton Branch)
+👋 Bienvenue chez Dunder MifflAD, succursale "non-officielle" de Scranton
 
 Survivre à un audit de sécurité de Dwight Schrute ou au chaos quotidien de Michael Scott, ça demande une infrastructure qui tient le choc !
 
@@ -21,7 +21,7 @@ L'objectif ? Prouver mes capacités de déploiement et de résolution d'incident
 
 ---
 
-👋 Welcome to Dunder MifflAD (Scranton Branch)
+👋 Welcome to Dunder MifflAD, Scranton’s unofficial branch
 
 Surviving a Dwight Schrute security audit, or Michael Scott's daily chaos, takes an infrastructure that can take a hit.
 
