@@ -39,7 +39,7 @@ L'état décrit est l'état **as-built** : ce qui tourne réellement à la fin d
 | N7 | ♻️ Résilience et reprise | System State · Veeam et PRA/PCA · saisie FSMO · RODC et PRP · Forest Recovery |
 | N8 | 🧨 Break/Fix transversal | pannes combinées, sans étiquette *(final de saison)* |
 
-### 🎬 Saison 3 : Exploitation 🔜
+### 🎬 Saison 3 : Extension 🔜
 
 | Épisode | Sujet                            | Concepts clés                                                                                                                                         |
 | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
